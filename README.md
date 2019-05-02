@@ -1,0 +1,1 @@
+Create two folders: sensitive and samples in the results dir
