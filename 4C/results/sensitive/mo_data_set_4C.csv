@@ -1,0 +1,13 @@
+1,ChangeInsulationRValueForExteriorWalls,r_value,3.4,3.53
+2,ChangeInsulationRValueForRoofs,r_value_roof,9.8,10.64
+3,ChangeUValueandSHGCOfWindows,window_u_value_ip,0.69,1.03
+4,ChangeUValueandSHGCOfWindows,window_shgc,0.54,0.71
+5,ReplaceLightsInSpaceTypeWithLPD,lpd,13.11044,24.34797
+6,ChangeCOPforSingleSpeedDXCoolingUnits,cop,2.64,2.8
+7,SetHeatingandCoolingSizingFactors,htg_sz_factor,1.1,1.4
+8,SetHeatingandCoolingSizingFactors,clg_sz_factor,1.1,1.4
+9,SetWaterHeaterEfficiency,heater_thermal_efficiency,0.7,0.78
+10,AddOverhangsByProjectionFactor,projection_factor,0.0,0.5
+11,ChangeOutdoorAir,design_spec_outdoor_air_per_area,0.06,0.11
+12,ResizeExistingWindowsToMatchAGivenWWR,wwr,0.09,0.13
+13,ChangeElectricEquipmentLoadsByPercentage,elecequip_power_change_percent,-109.088,0.0
